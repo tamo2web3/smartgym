@@ -1,0 +1,34 @@
+{
+  "name": "smartgym",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "http://tamo2web3.github.io/smartgym",
+  "scripts": {
+    "test": "mocha",
+    "dev": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.2",
+    "fs-extra": "^10.1.0",
+    "ganache": "^7.5.0",
+    "gh-pages": "^4.0.0",
+    "mocha": "^10.1.0",
+    "next": "^12.3.1",
+    "next-routes": "^1.4.2",
+    "react": "^18.2.0",
+    "react-datepicker": "^4.8.0",
+    "react-dom": "^18.2.0",
+    "react-youtube": "^10.1.0",
+    "semantic-ui-react": "^2.1.4",
+    "solc": "^0.8.17",
+    "web3": "^1.8.1",
+    "youtube-api-search": "^0.0.5"
+  },
+  "devDependencies": {
+    "chart.js": "^4.0.1",
+    "react-chartjs-2": "^5.0.1"
+  }
+}

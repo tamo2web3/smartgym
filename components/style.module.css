@@ -1,0 +1,8 @@
+.youtube-aspect {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+.youtube-aspect iframe {
+  width: 100%;
+  height: 100%;
+}

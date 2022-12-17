@@ -1,0 +1,15 @@
+//0x62F8DbA4B8789BB2898e202dE5d4f1F3B66421Ae
+//0xbF08b2e95455993c84d346D4A40908ee66144B73
+//0xf6B19d08e89127caBB2856AEE1e67f9053Df1113
+//0xF104Ab35Eb8FA0F6609ba6ce5E2A33829F098011
+//0x63445814f0dede062001254CF3c4a17A8F4b1876
+//0xD7824466867D32bC042764FA1f5DA4BB072539e3
+//0x9BeA8A9478cc7748D912BF15812e598DB9F8A9e3
+0xc7EE857b70f91351785696522687e37d9f332273
+
+PS C:\Users\tamo2\Documents\smartgym> cd .\ethereum\
+PS C:\Users\tamo2\Documents\smartgym\ethereum> node .\compile.js
+PS C:\Users\tamo2\Documents\smartgym\ethereum> node .\deploy.js
+Attempting to deploy from account 0x3EEB4cA726691B231dcF4511c6bb66a30D8A8E1E
+Contract deployed at address 0x6a611204EfDA04B6a265dBb684729136c1F88008
+PS C:\Users\tamo2\Documents\smartgym\ethereum>
